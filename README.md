@@ -9,20 +9,17 @@
 
 ## 🌐 Connect With Me
 
-Instagram -> www.instagram.com/_shreyas.__._/
-Linkdin   -> www.linkedin.com/in/shreyas-r-a-6a0567305
-Portfolio -> shreyasraportfolio2.netlify.app
-<!-- <p align="left">
-  <a href="(https://www.instagram.com/_shreyas.__._/)" target="_blank">
+<p align="left">
+  <a href="www.instagram.com/_shreyas.__._/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/shreyas-r-a-6a0567305" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://shreyasraportfolio2.netlify.app/" target="_blank">
+  <a href="shreyasraportfolio2.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p> -->
+</p>
 
 ## 🛠️ Tech Stack
 
