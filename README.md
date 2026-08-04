@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shreyas
 
-<!--
-**Shreyas142004/Shreyas142004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 MCA Student
+- 💻 Full Stack Developer
+- 🤖 AI/ML Enthusiast
+- 🔥 Building interesting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🚀 Projects
+
+### 🎙️ Speech-to-Text
+AI-powered speech recognition application using Whisper.
+
+### 💼 Smart CRM
+A role-based CRM system built using MERN stack.
+
+### 🚗 Parking Booking System
+A full-stack parking reservation application.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
