@@ -24,7 +24,3 @@ A role-based CRM system built using MERN stack.
 
 ### 🚗 Parking Booking System
 A full-stack parking reservation application.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
