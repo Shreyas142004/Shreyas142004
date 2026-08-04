@@ -7,6 +7,20 @@
 - 🤖 AI/ML Enthusiast
 - 🔥 Building interesting projects
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="(https://www.instagram.com/_shreyas.__._/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/shreyas-r-a-6a0567305" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="(https://shreyasraportfolio2.netlify.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
