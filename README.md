@@ -18,11 +18,11 @@
 
 ### 🎙️ Speech-to-Text
 AI-powered speech recognition application using Whisper.
-Live Demo :https://speech-to-text-eight-mu.vercel.app/
+ - Live Demo :https://speech-to-text-eight-mu.vercel.app/
 
 ### 💼 Smart CRM
 A role-based CRM system built using MERN stack.
 
 ### 🚗 Parking Booking System
 A full-stack parking reservation application.
-Live Demo: https://smart-parking-portal.vercel.app/
+ - Live Demo: https://smart-parking-portal.vercel.app/
