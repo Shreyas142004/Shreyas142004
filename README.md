@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="hero.jpg" alt="Hero banner" width="100%" height="50%" /> -->
+<img src="hero.jpg" alt="Hero banner" width="100%" height="100%" />
 
 <br/>
 
@@ -57,7 +57,7 @@ I enjoy building complete applications — from frontend interfaces and REST API
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" alt="Git, GitHub, Linux, VS Code, Postman" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux, VS Code" />
 
 <img src="divider.svg" width="100%" alt="" />
 
