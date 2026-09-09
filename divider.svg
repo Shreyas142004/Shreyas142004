@@ -1,0 +1,28 @@
+<svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000D20" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#003580"/>
+      <stop offset="35%" stop-color="#0070C0"/>
+      <stop offset="52%" stop-color="#00C8D4"/>
+      <stop offset="70%" stop-color="#0070C0"/>
+      <stop offset="85%" stop-color="#003580"/>
+      <stop offset="100%" stop-color="#000D20" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="f6"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="f6g"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g fill="none" stroke="url(#g6)" stroke-linecap="round" filter="url(#f6)" opacity="0.5">
+    <path d="M0 50 C100 20 200 70 350 48 S520 16 660 48 S820 74 980 48 S1120 18 1200 50" stroke-width="15"/>
+    <path d="M0 44 C120 72 230 24 380 44 S540 70 680 44 S840 20 1000 44 S1120 72 1200 44" stroke-width="9"/>
+  </g>
+  <g fill="none" stroke="url(#g6)" stroke-linecap="round" filter="url(#f6g)">
+    <path d="M0 46 C80 30 140 60 230 46 C310 32 380 62 460 46 C525 32 570 54 590 46 C595 40 598 34 600 46 C602 58 607 50 640 46 C680 32 740 62 820 46 C900 30 965 62 1050 46 C1120 32 1160 60 1200 46" stroke-width="2.5"/>
+    <path d="M0 37 C85 20 145 52 235 37 C315 22 385 54 465 37 C528 24 572 46 591 37 C596 30 598 24 600 37 C602 50 607 42 642 37 C682 22 742 54 822 37 C902 20 967 54 1052 37 C1122 22 1162 52 1200 37" stroke-width="1.4" opacity="0.78"/>
+    <path d="M0 56 C80 72 140 40 230 56 C310 72 380 38 460 56 C524 68 568 48 590 56 C595 62 598 68 600 56 C602 44 607 52 640 56 C680 68 740 38 820 56 C900 72 965 38 1050 56 C1120 72 1160 40 1200 56" stroke-width="1.2" opacity="0.65"/>
+  </g>
+  <g fill="#00C8D4" filter="url(#f6g)">
+    <circle cx="170" cy="34" r="1.1"/><circle cx="300" cy="60" r="0.9"/><circle cx="450" cy="33" r="1"/>
+    <circle cx="600" cy="32" r="1.5"/><circle cx="750" cy="33" r="1"/><circle cx="900" cy="60" r="0.9"/><circle cx="1030" cy="34" r="1.1"/>
+  </g>
+</svg>
