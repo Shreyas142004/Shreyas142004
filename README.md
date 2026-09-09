@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Hero banner" width="100%" />
+<img src="hero.png" alt="Hero banner" width="100%" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 👋 About Me
 
@@ -31,7 +31,7 @@ I enjoy building complete applications — from frontend interfaces and REST API
 🌱  Always Learning
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ⚡ Tech Stack
 
@@ -59,7 +59,7 @@ I enjoy building complete applications — from frontend interfaces and REST API
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" alt="Git, GitHub, Linux, VS Code, Postman" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -135,7 +135,7 @@ Exploring new ideas across **web development, AI/ML, Java, DSA, and software eng
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🧠 What I Do
 
@@ -177,7 +177,7 @@ Turning ideas into working projects and learning through experimentation, debugg
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🛠️ How I Build
 
@@ -191,7 +191,7 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🌱 Currently Learning
 
@@ -205,7 +205,7 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🎯 Goals
 
@@ -217,7 +217,7 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
 - Build useful real-world applications
 - Contribute to open source
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🌐 Connect With Me
 
@@ -239,7 +239,7 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -251,6 +251,6 @@ Thanks for stopping by 🚀
 
 <br/><br/>
 
-<img src="./assets/footer.png" width="100%" alt="Footer banner" />
+<img src="divider.png" width="100%" alt="Footer banner" />
 
 </div>
