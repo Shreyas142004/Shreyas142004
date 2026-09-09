@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.png" alt="Hero banner" width="100%" />
+<img src="hero.png" alt="Hero banner" width="50%" />
 
 <br/>
 
