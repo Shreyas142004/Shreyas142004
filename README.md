@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.jpg" alt="Hero banner" width="100%" height="50%" />
+<!-- <img src="hero.jpg" alt="Hero banner" width="100%" height="50%" /> -->
 
 <br/>
 
@@ -251,6 +251,6 @@ Thanks for stopping by 🚀
 
 <br/><br/>
 
-<img src="divider.png" width="100%" alt="Footer banner" />
+<img src="divider.svg" width="100%" alt="Footer banner" />
 
 </div>
