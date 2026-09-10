@@ -67,69 +67,23 @@ I enjoy building complete applications — from frontend interfaces and REST API
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Speech-to-Text
+🎙️ Speech-to-Text
 
-AI-powered speech recognition application that converts spoken audio into text using **Whisper**.
+An AI-powered speech recognition application using Whisper to convert spoken audio into text.
 
-**Tech:** Python • AI • Speech Recognition
-
-**Live Demo:**  
+Live Demo:
 https://speech-to-text-eight-mu.vercel.app/
 
-</td>
+💼 Smart CRM
 
-<td width="50%" valign="top">
+A role-based Customer Relationship Management system built using the MERN stack, designed to manage customers, leads, sales, and business operations.
 
-### 🚗 Smart Parking Portal
+🚗 Smart Parking Portal
 
-Full-stack parking reservation platform for discovering parking locations, checking available slots, and managing bookings.
+A full-stack parking discovery and reservation system that allows users to find parking locations, check available slots, and make bookings.
 
-**Tech:** React • Node.js • Express • MongoDB
-
-**Live Demo:**  
+Live Demo:
 https://smart-parking-portal.vercel.app/
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Smart CRM
-
-A full-stack CRM platform for managing customers, leads, quotations, invoices, payments, inventory, and follow-ups.
-
-**Tech:** React • Node.js • Express • MongoDB
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤟 SignBridge
-
-AI-powered communication project using computer vision and machine learning to explore sign-language recognition and speech interaction.
-
-**Tech:** React • Node.js • Python • OpenCV • MediaPipe • Scikit-learn
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⛈️ AI Weather Nowcasting
-
-AI/ML project focused on thunderstorm and lightning nowcasting using atmospheric observations and multiple weather data sources.
-
-**Tech:** Python • Machine Learning • Weather Data
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 More Projects
-
-Exploring new ideas across **web development, AI/ML, Java, DSA, and software engineering**.
 
 </td>
 </tr>
