@@ -184,10 +184,18 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
 <a href="https://linkedin.com/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:shreyasra7@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://shreyasraportfolio.netlify.app/">
+<img src="https://skillicons.dev/icons?i=vite" width="48" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
-`GitHub` • `LinkedIn`
+`GitHub` • `LinkedIn` • `Gmail` • `Portfolio`
 
 </div>
 
@@ -198,32 +206,6 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
 <div align="center">
 
 ### LEARN • BUILD • BREAK • UNDERSTAND • IMPROVE
-
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/Shreyas142004/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shreyas-r-a-6a0567305/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://shreyasraportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shreyasra7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
 
 </div>
 <br/>
