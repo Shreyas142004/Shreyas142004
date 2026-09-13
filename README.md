@@ -216,7 +216,7 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="shreyasraportfolio.netlify.app">
+  <a href="https://shreyasraportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
