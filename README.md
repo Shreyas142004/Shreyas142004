@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="hero.png" alt="Hero banner" width="100%"/>
 
-<br/>
+<br/> -->
 
 # SHREYAS
 
@@ -199,12 +199,40 @@ IDEA → EXPLORE → DESIGN → BUILD → DEBUG → IMPROVE → SHIP
 
 ### LEARN • BUILD • BREAK • UNDERSTAND • IMPROVE
 
+</div>
+
 <br/>
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/Shreyas142004/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shreyas-r-a-6a0567305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="shreyasraportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shreyasra7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+</div>
+<br/>
+<div align="center">
 Thanks for stopping by 🚀
+</div>
 
 <br/><br/>
 
-<img src="divider.svg" width="100%" alt="Footer banner" />
+<!-- <img src="divider.svg" width="100%" alt="Footer banner" /> -->
 
-</div>
+<!-- </div> -->
